@@ -17,7 +17,7 @@ Once the face is detected, the eye regions (left and right) are cropped from the
 
 **Dataset**:- https://universe.roboflow.com/eye-ipc47/eye-8qscl
 
-**WORKING DEMO:**
+**INTERMEDIATE DEMO:**
 ![image](https://github.com/user-attachments/assets/adc92d1d-f98f-4b7a-9368-67e1a5c7a39f)
 
 
@@ -29,7 +29,7 @@ The third model analyzes the cropped eye area to determine if the eyes are open 
 <img src="https://github.com/user-attachments/assets/30be898f-b573-4db5-a91a-cfd6e6c86382" width="700"/>
 <img src="https://github.com/user-attachments/assets/4df8d22e-e852-49ef-b728-40ea52dc0246" width="300"/>
 
-**WORKING DEMO:**
+**INTERMEDIATE DEMO:**
 
 <img src="https://github.com/user-attachments/assets/edf6873f-fe86-4b79-82ee-f49b977bb460" width="300"/>
 
